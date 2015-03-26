@@ -1,0 +1,115 @@
+
+#title{
+	width:25%;
+	font-family:Impact;
+	font-size:30px;
+	color:#FF3333;
+	
+	
+}
+
+#title_div{
+	width:100%;
+	cursor:pointer;
+}
+
+#home_tab,#about_tab,#contact_tab,#buy_tab{
+	
+padding-top:15px;
+padding-bottom:15px;
+padding-left:15px;
+padding-right:15px; 
+
+float:left;
+background-color:#FF3333;
+color: #D3D3D3;
+
+}
+
+#home_tab:hover,#about_tab:hover,#contact_tab:hover,#buy_tab:hover{
+background-color: #0000CC;
+cursor:pointer;
+opacity:0.6;
+}
+
+li.bar{
+display:inline;
+font-family:Arial;
+text-decoration:none;
+}
+#option_bar{
+width:100%;
+height:50px;
+background-color:#FF3333;
+
+}
+
+#countdown{
+	
+	/* padding-top:6%;
+	padding-left:30%; */
+	
+	margin-left:0;
+	margin-right:0;
+	
+	
+	}
+#time_left{
+	margin-left:7%;
+	font-size:30px;
+	font-family:Impact;
+	}
+#countdown2{
+	margin-left:32%;
+	}
+#start{
+	height:40px;
+	width:200px;
+	position: relative;
+    margin-left:7%;
+	background-color:#FF3333;	
+	text-align:center;
+	vertical-align:middle;
+	border-radius:25px;
+	cursor:pointer;
+	
+	}
+#start_text{
+	padding-top:4%;
+	font-size:150%;
+	color:#0000CC;
+	font-family:Impact;
+	
+	}
+#purchase_form{
+	width:40%;
+	padding-left:30%;
+	}
+
+#lastname,#firstname,#email,#cc_num,#expireMM,#expireYY,#cvv2{
+	height:30px;
+	border-radius:10px;
+	}
+.p{
+	font-family:Impact;
+	}
+#approved,#denied{
+background-color:#FFFFCC;
+width:100%;
+	
+	}
+#pool{
+	margin-left:7%;
+	
+	}
+#pool_text{
+	font-family:Impact;
+	font-size:20px;
+	
+	}
+#pool_value{
+	font-size:25px;
+	font-family:Impact;
+	margin-left: 7%;
+	}
+
